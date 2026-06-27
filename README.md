@@ -1,6 +1,6 @@
 # 🌐 Personal Portfolio Website
 
-A modern and responsive personal portfolio website showcasing my skills, projects, services, and experience as a Frontend Developer. This portfolio serves as my online presence where recruiters, clients, and collaborators can learn more about me and explore my work. :contentReference[oaicite:0]{index=0}
+A modern and responsive personal portfolio website showcasing my skills, projects, services, and experience as a Frontend Developer. This portfolio serves as my online presence where recruiters, clients, and collaborators can learn more about me and explore my work.
 
 ## 🚀 Live Demo
 
@@ -48,22 +48,6 @@ This portfolio was built to:
 ## 📷 Preview
 
 Visit the live website to explore the complete portfolio.
-
-## 💻 Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/portfolio.git
-```
-
-Navigate to the project folder:
-
-```bash
-cd portfolio
-```
-
-Open `index.html` in your browser or run the project using a local development server.
 
 ## 📈 Future Improvements
 
